@@ -72,7 +72,7 @@ public class Services extends Base {
                 JOptionPane.showMessageDialog(this, "Add services process is successful");
                 tblServices.setModel(serviceImpl.tablemodelOlustur());
                 tabbedPane1.setSelectedIndex(1);
-                tblServices.setRowSelectionInterval(0,0);
+
 
             } else {
                 if (status == -1) {

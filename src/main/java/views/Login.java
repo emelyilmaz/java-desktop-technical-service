@@ -83,10 +83,17 @@ public class Login extends Base {
 
     private void label6MouseClicked(MouseEvent e) {
         email=txtEmail.getText().trim();
+        if(email.equals("nurullah@gmail.com")){
+            PasswordClear p=new PasswordClear();
+            p.setVisible(true);
+            lblError.setText("");
+        }else{
+            lblError.setText("E-mail address is wrong");
+        }
 
-     PasswordClear p=new PasswordClear();
 
-     p.setVisible(true);
+
+
     }
 
     private void initComponents() {
@@ -126,7 +133,7 @@ public class Login extends Base {
         label3.setForeground(new Color(79, 77, 77));
 
         //---- txtEmail ----
-        txtEmail.setText("mustafa@gmail.com");
+        txtEmail.setText("nurullah@gmail.com");
         txtEmail.setFont(new Font("Segoe UI", Font.PLAIN, 16));
         txtEmail.addKeyListener(new KeyAdapter() {
             @Override
@@ -187,38 +194,36 @@ public class Login extends Base {
                 .addGroup(contentPaneLayout.createSequentialGroup()
                     .addGap(192, 192, 192)
                     .addComponent(label1, GroupLayout.PREFERRED_SIZE, 117, GroupLayout.PREFERRED_SIZE)
-                    .addContainerGap(GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-                .addGroup(contentPaneLayout.createSequentialGroup()
-                    .addGap(264, 264, 264)
-                    .addComponent(label6, GroupLayout.DEFAULT_SIZE, GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addGap(103, 103, 103))
+                    .addContainerGap(179, Short.MAX_VALUE))
                 .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
-                    .addGap(0, 0, Short.MAX_VALUE)
-                    .addComponent(lblError, GroupLayout.PREFERRED_SIZE, 438, GroupLayout.PREFERRED_SIZE)
-                    .addGap(22, 22, 22))
-                .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
-                    .addContainerGap(GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                    .addContainerGap(26, Short.MAX_VALUE)
                     .addGroup(contentPaneLayout.createParallelGroup()
                         .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createParallelGroup()
-                            .addComponent(txtEmail, GroupLayout.PREFERRED_SIZE, 313, GroupLayout.PREFERRED_SIZE)
-                            .addGroup(contentPaneLayout.createParallelGroup()
-                                .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
-                                    .addComponent(txtPassword, GroupLayout.PREFERRED_SIZE, 313, GroupLayout.PREFERRED_SIZE)
-                                    .addGap(81, 81, 81))
-                                .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
-                                    .addComponent(label4, GroupLayout.PREFERRED_SIZE, 72, GroupLayout.PREFERRED_SIZE)
-                                    .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
-                                    .addComponent(label5, GroupLayout.PREFERRED_SIZE, 84, GroupLayout.PREFERRED_SIZE)
-                                    .addGap(146, 146, 146))
-                                .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
-                                    .addComponent(btnLogin, GroupLayout.PREFERRED_SIZE, 306, GroupLayout.PREFERRED_SIZE)
-                                    .addGap(82, 82, 82))
-                                .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
-                                    .addComponent(label2, GroupLayout.PREFERRED_SIZE, 59, GroupLayout.PREFERRED_SIZE)
-                                    .addGap(208, 208, 208))))
+                            .addGroup(contentPaneLayout.createSequentialGroup()
+                                .addGap(6, 6, 6)
+                                .addGroup(contentPaneLayout.createParallelGroup()
+                                    .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
+                                        .addComponent(label4, GroupLayout.PREFERRED_SIZE, 72, GroupLayout.PREFERRED_SIZE)
+                                        .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
+                                        .addComponent(label5, GroupLayout.PREFERRED_SIZE, 84, GroupLayout.PREFERRED_SIZE)
+                                        .addGap(146, 146, 146))
+                                    .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
+                                        .addComponent(btnLogin, GroupLayout.PREFERRED_SIZE, 306, GroupLayout.PREFERRED_SIZE)
+                                        .addGap(82, 82, 82))
+                                    .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
+                                        .addComponent(label2, GroupLayout.PREFERRED_SIZE, 59, GroupLayout.PREFERRED_SIZE)
+                                        .addGap(208, 208, 208))))
+                            .addComponent(txtPassword, GroupLayout.PREFERRED_SIZE, 313, GroupLayout.PREFERRED_SIZE)
+                            .addComponent(txtEmail, GroupLayout.PREFERRED_SIZE, 313, GroupLayout.PREFERRED_SIZE))
                         .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
                             .addComponent(label3, GroupLayout.PREFERRED_SIZE, 80, GroupLayout.PREFERRED_SIZE)
-                            .addGap(197, 197, 197))))
+                            .addGap(197, 197, 197))
+                        .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
+                            .addComponent(lblError, GroupLayout.PREFERRED_SIZE, 438, GroupLayout.PREFERRED_SIZE)
+                            .addGap(24, 24, 24))
+                        .addGroup(GroupLayout.Alignment.TRAILING, contentPaneLayout.createSequentialGroup()
+                            .addComponent(label6)
+                            .addGap(91, 91, 91))))
         );
         contentPaneLayout.setVerticalGroup(
             contentPaneLayout.createParallelGroup()
@@ -231,17 +236,17 @@ public class Login extends Base {
                     .addComponent(label1, GroupLayout.PREFERRED_SIZE, 140, GroupLayout.PREFERRED_SIZE)
                     .addGap(18, 18, 18)
                     .addComponent(label2)
-                    .addGap(18, 18, 18)
+                    .addPreferredGap(LayoutStyle.ComponentPlacement.UNRELATED)
                     .addComponent(txtEmail, GroupLayout.PREFERRED_SIZE, 42, GroupLayout.PREFERRED_SIZE)
-                    .addGap(12, 12, 12)
-                    .addComponent(label3, GroupLayout.PREFERRED_SIZE, 26, GroupLayout.PREFERRED_SIZE)
                     .addGap(18, 18, 18)
+                    .addComponent(label3, GroupLayout.PREFERRED_SIZE, 26, GroupLayout.PREFERRED_SIZE)
+                    .addPreferredGap(LayoutStyle.ComponentPlacement.UNRELATED)
                     .addComponent(txtPassword, GroupLayout.PREFERRED_SIZE, 40, GroupLayout.PREFERRED_SIZE)
                     .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
                     .addComponent(lblError)
-                    .addPreferredGap(LayoutStyle.ComponentPlacement.UNRELATED)
+                    .addPreferredGap(LayoutStyle.ComponentPlacement.RELATED)
                     .addComponent(label6)
-                    .addPreferredGap(LayoutStyle.ComponentPlacement.UNRELATED)
+                    .addGap(24, 24, 24)
                     .addComponent(btnLogin, GroupLayout.PREFERRED_SIZE, 46, GroupLayout.PREFERRED_SIZE)
                     .addContainerGap(19, Short.MAX_VALUE))
         );
