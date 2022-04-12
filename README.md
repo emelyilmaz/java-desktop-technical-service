@@ -17,19 +17,19 @@ This project is a desktop application that allows any technical service firm to 
 <img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" width="200" style="max-width:100%;"></a>  
   
   
-  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" target="_blank">
+ <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" target="_blank">
 <img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" width="200" style="max-width:100%;"></a> 
   
   
-    <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" target="_blank">
+<a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" target="_blank">
 <img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" width="200" style="max-width:100%;"></a> 
   
   
-   <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" target="_blank">
+<a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" target="_blank">
 <img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" width="200" style="max-width:100%;"></a> 
   
   
-   <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" target="_blank">
+<a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" target="_blank">
 <img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" width="200" style="max-width:100%;"></a> 
 
 </p>  
