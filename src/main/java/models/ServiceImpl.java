@@ -81,7 +81,7 @@ public class ServiceImpl implements IService {
             // arama sonuçlarını gönder
             List<Customer> subLs = new ArrayList<>();
             for (Customer item : ls) {
-                if (item.getName().contains(data)
+                if (item.getName().toLowerCase(Locale.ROOT).contains(data)
                         || item.getSurname().toLowerCase(Locale.ROOT).contains(data)
                         || item.getEmail().toLowerCase(Locale.ROOT).contains(data)
                         || item.getPhone().toLowerCase(Locale.ROOT).contains(data)
