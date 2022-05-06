@@ -2,6 +2,8 @@
 
 This project is a desktop application that allows any technical service firm to manage its processes such as customer crud functions,service crud functions .This project was designed using JFrame.Maven was used to manage dependencies.Sqlite was used as the database during the design phase.To make the app user-friendly, search sections have been added to the design.Data type validation has been done in data entries( mail format, such as whether the entered value is a number).
 
+Products with status 1 and 2 are shown in the table in the main form that opens after logging in with the user password.In the archieve section, products with status 3 are listed.Information about the status statements is given below.
+
 
 <i><b>Item just arrived status 0</b></br>
 <b>The product has been repaired status 1</b></br>
