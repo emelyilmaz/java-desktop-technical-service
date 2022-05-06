@@ -1,6 +1,12 @@
 # Java-Desktop-Technical-Service Application
 
-This project is a desktop application that allows any technical service firm to manage its processes such as customer crud functions,service crud functions .This project was designed using JFrame.Maven was used to manage dependencies.Sqlite was used as the database during the design phase.To make the app user-friendly, search sections have been added to the design.
+This project is a desktop application that allows any technical service firm to manage its processes such as customer crud functions,service crud functions .This project was designed using JFrame.Maven was used to manage dependencies.Sqlite was used as the database during the design phase.To make the app user-friendly, search sections have been added to the design.Data type validation has been done in data entries( mail format, such as whether the entered value is a number).
+
+
+<i><b>Item just arrived status 0</b></br>
+<b>The product has been repaired status 1</b></br>
+<b>Product repaired status 2</b></br>
+<b>Item delivered status 3</b></i></br>
 
 ## Languages, Technologies and Environments Used in this Project
 
