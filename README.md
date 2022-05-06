@@ -12,30 +12,41 @@ This project is a desktop application that allows any technical service firm to 
 ## Project Display Image
 <p>
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" width="200" style="max-width:100%;"></a>
-  
-  
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" width="400" style="max-width:100%;"></a>
+ 
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" width="200" style="max-width:100%;"></a>
-  
-  
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" width="400" style="max-width:100%;"></a>
+</p>
+ 
+ <p> 
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" width="200" style="max-width:100%;"></a>  
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" width="400" style="max-width:100%;"></a>  
   
   
  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" width="200" style="max-width:100%;"></a> 
-  
-  
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" width="400" style="max-width:100%;"></a> 
+ <p/> 
+  <p> 
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" width="200" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" width="400" style="max-width:100%;"></a> 
   
   
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" width="200" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" width="400" style="max-width:100%;"></a> 
   
-  
+  </p> 
+  <p> 
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" width="200" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" width="400" style="max-width:100%;"></a> 
+ <p/> 
+ 
 
-</p>  
+## Demo Account
+| <img src ="https://github.com/nazligencel/java-desktop-technical-service/blob/main/images/mail.png" width ="20px" height = "20px" style="float:left" > E-Mail | <img src ="https://github.com/nazligencel/java-desktop-technical-service/blob/main/images/password.png" width ="20px" height = "20px" style="float:left" > Password | 
+| :------------: | :------------: | 
+|nurullah@gmail.com| 12345 |
+
+*Name:* Emel  <br>
+*Surname:* Cesur Yılmaz <br>
+*Email:* emelcesurr@gmail.com
+ 
