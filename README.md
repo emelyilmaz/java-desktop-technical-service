@@ -22,43 +22,43 @@ Products with status 1 and 2 are shown in the table in the main form that opens 
 
 <p>
  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" width="600" style="max-width:100%;"></a>
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" width="500" style="max-width:100%;"></a>
 </p>
 <br>
 
 <p>
  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" width="600" style="max-width:100%;"></a>
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" width="500" style="max-width:100%;"></a>
 </p>
 <br>
 
 <p> 
  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" width="600" style="max-width:100%;"></a>  
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" width="500" style="max-width:100%;"></a>  
 <p/> 
 <br>
 
 <p>   
  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" width="600" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" width="500" style="max-width:100%;"></a> 
 <p/> 
 <br>
 
 <p> 
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" width="600" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" width="500" style="max-width:100%;"></a> 
 <p/>
 <br>
 
 <p> 
  <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" width="600" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" width="500" style="max-width:100%;"></a> 
 </p> 
 <br>
 
 <p> 
 <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" width="600" style="max-width:100%;"></a> 
+<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" width="500" style="max-width:100%;"></a> 
 <p/> 
  
 
